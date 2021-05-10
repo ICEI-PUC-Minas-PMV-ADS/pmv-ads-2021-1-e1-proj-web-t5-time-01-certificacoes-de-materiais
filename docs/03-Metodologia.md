@@ -15,10 +15,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 ## Gestão de código fonte
 
-Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este processo é apresentada no vídeo &quot;[The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)&quot;.
-
-![](RackMultipart20210510-4-1uwfdoy_html_7141f6e39d64a36a.png)
-
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. 
 
 
 ![Fluxo de controle](img/Figura%201.png)
@@ -46,18 +43,20 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - **In Progress** : Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 - **Done** : nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro kanban do grupo noTrello / Github está disponível através da URL [https://trello.com/b/LupglzUz/tiaw-template](https://trello.com/b/LupglzUz/tiaw-template)e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+O quadro kanban do grupo no Github está disponível através da URL [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/projects/1] e é apresentado, no estado atual, na Figura 2. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
 
-![Tela Kanban](img/Figura%202.png)
+![Tela Kanban](img/Figura%202.PNG)
 <center>Figura 2 - Tela kanban no Github</center>
 
-![](RackMultipart20210510-4-1uwfdoy_html_fa630e004491d221.png)
-
-A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+A tarefas são ainda etiquetadas em função da natureza da atividade, onde podemos destacar as categorias:
 
 - Documentação
 - Desenvolvimento
 - Infraestrutura
 - Testes
-- Gerência de Projetos.
+- Bug
+- Inválido
+
+![Tela Labels](img/Figura%203.png)
+<center>Figura 3 - Tela Labels</center>
