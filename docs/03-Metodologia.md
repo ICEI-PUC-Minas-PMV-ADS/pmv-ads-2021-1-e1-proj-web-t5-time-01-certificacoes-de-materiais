@@ -19,7 +19,10 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 ![](RackMultipart20210510-4-1uwfdoy_html_7141f6e39d64a36a.png)
 
-Figura X - Fluxo de controle do código fonte no repositório git
+
+
+![Fluxo de controle](img/Figura%201.png)
+<center>Figura 1 - Fluxo de controle do código fonte no repositório git</center>
 
 ## Gerenciamento do Projeto
 
@@ -45,9 +48,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo noTrello / Github está disponível através da URL [https://trello.com/b/LupglzUz/tiaw-template](https://trello.com/b/LupglzUz/tiaw-template)e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
-![](RackMultipart20210510-4-1uwfdoy_html_5f67026d147301f5.png)
 
-Figura X - Tela do kanban utilizada pelo grupo
+![Tela Kanban](img/Figura%202.png)
+<center>Figura 2 - Tela kanban no Github</center>
 
 ![](RackMultipart20210510-4-1uwfdoy_html_fa630e004491d221.png)
 
