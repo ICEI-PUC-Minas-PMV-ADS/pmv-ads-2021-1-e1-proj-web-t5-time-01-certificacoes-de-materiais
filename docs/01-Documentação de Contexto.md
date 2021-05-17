@@ -15,11 +15,6 @@ Conforme exposto, o problema que se busca resolver com este projeto é a falta d
 
 Pode-se dizer também que ao atender o código de defesa do consumidor, as construtoras poderão entregar edificações mais seguras, duráveis e econômicas. 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O objetivo geral deste trabalho é a criação de um site que apresente os diversos ensaios e suas normas que a construção civil precisa realizar para certificar seus materiais e os laboratórios que podem executar estes ensaios. 
@@ -32,26 +27,14 @@ fornecer funcionalidades que após a escolha do material, para que o usuário po
 
 após a escolha dos ensaios, fornecer todas as normas pertinentes e os laboratórios que podem realizar os ensaios, com os contatos de cada um. 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 Empresas da construção civil estão cada vez mais precisando da certificação ISO 9001 e de apresentação de laudos técnicos atestando a qualidade dos materiais para poderem executar suas obras. 
 
 A falta de um sistema de informação seguro e atualizado sobre a certificação que as empresas de construção podem utilizar tem dificultado o acesso das empresas a financiamentos e credenciais para execução de obras públicas. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 Empresas ligadas à construção civil, Engenheiros Civis e Arquitetos. 
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
