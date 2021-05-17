@@ -17,7 +17,7 @@ A solução implementada conta com os seguintes módulos:
     - **Canais** - seções de notícias apresentadas
     - **Comentários** - registro de opiniões dos usuários sobre as notícias
     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
-- **Bing News API** - plataforma que permite o acesso às notícias exibidas no site.??????????
+- **Bing News API** - plataforma que permite o acesso às notícias exibidas no site.
 - **Heroku** - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
 ### Hospedagem
