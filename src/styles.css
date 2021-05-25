@@ -21,10 +21,33 @@ body {
   header {
     grid-column: span 3;
     padding: 30px;
-    text-align: center;
+    text-align: left;
     font-size: 1.4em;
-    background-color: lightgrey;
+    background-color: yellowgreen;
     color: white;
+  }
+
+  .caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+  }
+
+  nav{
+    position:absolute;
+    top: 5;
+    right: 50px;
+  }
+
+  nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+  }
+
+  nav a {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
   }
   
   main {
@@ -32,10 +55,6 @@ body {
     padding: 20px;
   }
   
-  nav {
-    background-color: green;
-    padding: 20px;
-  }
   
   footer {
     grid-column: span 3;
