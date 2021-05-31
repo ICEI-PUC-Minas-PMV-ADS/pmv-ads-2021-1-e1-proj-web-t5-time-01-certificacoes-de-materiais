@@ -3,7 +3,7 @@
 
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura 6.
 
-O template criado está disponível no site https://site-materiais.herokuapp.com e é composto pelos seguintes layouts:
+O template criado está disponível no site https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/src/index.html e é composto pelos seguintes layouts:
 
 - Tela Principal
 - Tela de Login
