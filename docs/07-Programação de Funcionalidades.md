@@ -14,10 +14,14 @@ A tela de login e acessada através da tela principal do sistema e realiza a aut
 
 **Artefatos da funcionalidade**
 
-- index.html
-- script\_noticias.js
-- style.css
-- icone\_noticia.jpg
+-	index.html
+-	login.html
+-	style.css
+-	login.css
+-	background.jpeg
+-	dbfake.js
+-	logo.png
+
 
 **Estrutura de Dados**
 
@@ -27,5 +31,5 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t5-time-01-
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL:[https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+1. Abra um navegador de Internet e informe a seguinte URL:[https://site-materiais.herokuapp.com/ ](https://site-materiais.herokuapp.com/ )
 2. A tela de Login é a primeira funcionalidade exibida pelo site.
