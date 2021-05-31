@@ -7,11 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://kit.fontawesome.com/31c71b05b3.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="login.css">
+
+    <script src="/dbfake.js" > </script>
+    <script src="/script.js" > </script>
   </head>
   <body>
     <div id="login-container">
       <h1>Login</h1>
-      <form action="">
+      <form action="" onsubmit="return autenticar();" >
         <label for="email">E-mail</label>
         <input type="email" name="email" id="email" placeholder="Digite seu e-mail" autocomplete="off">
         <label for="password">Senha</label>

@@ -1,10 +1,8 @@
-body {
-    font-family: arial;
-  }
-  
+
   .container {
     display: flex;
     flex-direction: column;
+    font-family: arial;
     min-height: 100vh;
   }
   
@@ -20,31 +18,23 @@ body {
   
   header {
     grid-column: span 3;
-    padding: 30px;
-    text-align: left;
-    font-size: 1.4em;
-    background-color: yellowgreen;
+    padding: 0px;
+    background-color: rgb(199, 199, 199);
     color: white;
+  }    
+
+  #banner {
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
   }
 
-  .caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+  main li {
+    display: flexbox;
+    margin-left: 50px;
   }
 
-  nav{
-    position:absolute;
-    top: 5;
-    right: 50px;
-  }
-
-  nav li {
-    display: inline;
-    margin: 0 0 0 15px;
-  }
-
-  nav a {
+  main a {
     color: #000000;
     font-style: normal;
     font-weight: bold;
@@ -52,17 +42,18 @@ body {
   
   main {
     flex: 1;
+    background: lightcoral;
     padding: 20px;
   }
   
   
   footer {
     grid-column: span 3;
-    padding: 30px;
+    padding: 50px;
     text-align: center;
     font-size: 1.4em;
     background-color: grey;
-    color: white;
+    color:lightskyblue;
   }
   
   h1 {
