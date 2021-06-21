@@ -1,5 +1,4 @@
-
-  .container {
+.container {
     display: flex;
     flex-direction: column;
     font-family: arial;
@@ -17,6 +16,7 @@
   }
   
   header {
+    text-align: center;
     grid-column: span 3;
     padding: 0px;
     background-color: rgb(199, 199, 199);
@@ -49,9 +49,9 @@
   
   footer {
     grid-column: span 3;
-    padding: 50px;
+    padding: 20px;
     text-align: center;
-    font-size: 1.4em;
+    font-size: 1.0em;
     background-color: grey;
     color:lightskyblue;
   }
