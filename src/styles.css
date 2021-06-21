@@ -61,3 +61,11 @@
     font-size: 1.3em;
     font-weight: bold;
   }
+
+  section {
+    text-indent: 30px;
+    line-height: 1.1em;
+    color: #000000;
+    text-align: justify;
+    padding: 20px;
+  }
