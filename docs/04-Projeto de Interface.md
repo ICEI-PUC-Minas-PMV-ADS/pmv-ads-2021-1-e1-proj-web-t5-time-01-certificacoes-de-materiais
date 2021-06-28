@@ -7,7 +7,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 O diagrama apresentado na Figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto: [https://userflows.marvelapp.com/gc47b5e].
 
-![Fluxo do Usuario](img/flowmap%20(1).png)
+![Fluxo do Usuario](img/flowmap.png)
 <center>Figura 4 - Fluxo de telas do usuário</center>
 
 ## Wireframes
@@ -19,7 +19,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 - **Barra lateral** - apresenta os elementos de navegação do site;
 - **Rodapé** - apresenta os contatos e redes sociais dos mantedores do site.
 
-![Estrutura Padrao](img/Wireframe.PNG)
+![Estrutura Padrao](img/Geral.PNG)
 <center>Figura 5 - Estrutura padrão do site</center>
 
 
@@ -32,33 +32,40 @@ A tela de home-page realiza a apresentação do site. Na categoria &quot;Quem so
 - Componente de **cadastro** que permite realizar o cadastro de Laboratórios e Construtoras que pretendam se tornar parceiros;
 - Relação de **certificações, NBRs** e de **ensaios** que são exigidos atualmente das construtoras;
 
-![Tela Inicial](img/Inicial.PNG)
+![Tela Inicial](img/Tela%20Inicial.PNG)
 <center>Figura 6 - Tela Inicial </center>
+
+### Tela – Empresa  
+
+Apresenta os objetivos do projeto/Quem somos. 
+
+![Tela Empresa](img/Empresa.PNG)
+<center>Figura 7 - Tela Inicial </center>
 
 ### Tela - Notícias do Setor
 
 A tela de notícias de categoria apresenta, no Bloco de Conteúdo, notícias referentes à categoria de construção civil e de atualizações relacionadas ao setor. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
 
 ![Noticias](img/Noticias.PNG)
-<center>Figura 7 - Tela da Notícias do Setor </center>
+<center>Figura 8 - Tela da Notícias do Setor </center>
 
-### Tela – Localizar Laboratórios Parceiros
+### Tela – Login 
 
-Assim que o usuário seleciona uma cidade de pesquisa ele consegue visualizar a relação dos laboratórios associados e o tipo de ensaios fornecidos pelo mesmo. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
+Tela para login dos administradores do site. 
 
-![Pesquisas](img/Localizar.PNG)
-<center>Figura 8 - Tela de Resultados de Pesquisa </center>
+![Login](img/Login.PNG)
+<center>Figura 9 - Tela de Resultados de Pesquisa </center>
 
-### Tela - Certificações, NBRs e Ensaios
+### Tela – Certificações, NBRs e Ensaios
 
 A tela fornece uma relação das Certificações, NBRs e os Ensaios que uma construtora deve apresentar em cada etapa de uma obra. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
 
 ![Certificacoes](img/Certificações.PNG)
-<center>Figura 9 - Tela Certificações, NBRs e os Ensaios </center>
+<center>Figura 10 - Tela Certificações, NBRs e os Ensaios </center>
 
 ### Tela - Cadastros
 
 A tela de Cadastro permite cadastrar os Laboratórios e Construtoras que tenham interesse em se tornar parceiras do projeto. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
 
 ![Cadastro](img/Cadastro.PNG)
-<center>Figura 10 - Tela de cadastro </center>
+<center>Figura 11 - Tela de cadastro </center>
