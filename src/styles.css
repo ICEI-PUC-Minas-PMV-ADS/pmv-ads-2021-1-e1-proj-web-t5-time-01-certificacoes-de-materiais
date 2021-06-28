@@ -9,7 +9,7 @@
   @media (min-width: 768px) {
     .container {
       display: grid;
-      grid-template-columns: 200px 1fr 200px;
+      grid-template-columns: 150px 1fr 400px;
       grid-template-rows: auto 1fr auto;
   
     }
@@ -26,14 +26,18 @@
   #banner {
     height: 100px;
     width: 100px;
-    margin-left: 60px;
   }
 
   main li {
     display: flexbox;
-    margin-left: 50px;
+    margin-left: 10px;
+    list-style: none;
   }
 
+  main ul {
+    padding-inline-start: 0;
+  }
+  
   main a {
     color: #000000;
     font-style: normal;
@@ -51,9 +55,9 @@
     grid-column: span 3;
     padding: 20px;
     text-align: center;
-    font-size: 1.0em;
+    font-size: 0.9em;
     background-color: grey;
-    color:lightskyblue;
+    color: lightskyblue;
   }
   
   h1 {
@@ -63,9 +67,101 @@
   }
 
   section {
-    text-indent: 30px;
     line-height: 1.1em;
     color: #000000;
     text-align: justify;
     padding: 20px;
   }
+
+  form {
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid #CCC;
+  }
+
+  form div + div {
+    margin-top: 1em;
+  }
+
+  label, button {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    font-weight: bold;
+    padding: 8px 14px;
+    background-color: gray;
+    text-align: center;
+    font-size: small;
+    color: whitesmoke;
+    border-radius: 4px;
+    margin-right: 10px;
+    border: none;
+  }
+
+  input, textarea {
+    font: 1em sans-serif;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    padding: 8px 14px;
+    border-radius: 4px;
+    font-size: small;
+    width: 300px;
+  }
+
+  input:focus, textarea:focus {
+    border-color: #000;
+  }
+
+  textarea {
+    vertical-align: top;
+    height: 5em;
+    resize: vertical;
+  }
+
+input[type=radio] {
+  width: 60px;
+}
+
+aside {
+  overflow: hidden;
+}
+
+#lista-resultados{
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid rgb(202, 202, 202);
+}
+
+thead th:nth-child(1) {
+  width: 5%;
+}
+
+thead th:nth-child(2) {
+  width: 30%;
+}
+
+thead th:nth-child(3) {
+  width: 30%;
+}
+
+thead th:nth-child(4) {
+  width: 15%;
+}
+
+thead th:nth-child(5) {
+  width: 15%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  overflow: hidden;
+}
+
+tbody tr:nth-child(2n-1){
+  background-color: #eee;
+}
+
+thead{
+  background-color: #CCC;
+}
