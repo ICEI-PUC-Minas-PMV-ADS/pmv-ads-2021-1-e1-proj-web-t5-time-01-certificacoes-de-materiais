@@ -43,17 +43,12 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 | **ID** | **Descrição** | **Prioridade** |
 | --- | --- | --- |
-| RF-01 | O site deve descrever os objetivos e funcionalidades desenvolvidos no projeto | Alta |
-| RF-02 | O site deve fornecer informações referente as normas e certificações que devem ser cumpridas/obtidas pelas construtoras em cada etapa de uma obra | Alta |
-| RF-03 | O site deve permitir o cadastro do perfil laboratórios (fornecedor) de ensaios com as informações: nome da empresa, contato, setor, localização, tipos de ensaios realizados, certificações, principais clientes, prazo mínimo de entrega de cada tipo de serviço. | Alta |
-| RF-04 | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário: localizar possíveis laboratórios que possam executar os ensaios, localizar laboratórios próximos, localizar laboratórios com melhor classificação, localizar laboratórios que tenham uma determinada certificação. | Alta |
-| RF-05 | O site deve permitir visualizar as informações de contatos do mantenedor do site | Média |
-| RF-06 | Permitir a classificação dos laboratórios de ensaios pelas empresas de Construção Civil | Média |
-| RF-07 | O site deve disponibilizar informações sobre notícias, eventos e treinamentos relevantes para o setor | Baixa |
-| RF-08 | O site dever gerar um selo de confiabilidade para cada laboratório que atingir a meta de nota de classificação. | Alta |
-| RF-09 | O site deve permitir o cadastro das construtoras (cliente) com as informações: nome da empresa, responsável pelo projeto, localização, setor. | Média |
-| RF-10 | O site deve conter uma página com mapa apontando a localização dos laboratórios. | Baixa |
-| RF-11 | O layout da interface do site deverá destacar sua principal funcionalidade que é a busca por laboratórios.| Média |
+| RF-01 | O site deve descrever os objetivos e funcionalidades desenvolvidos no projeto | Média |
+| RF-02 | O site deve fornecer informações referente as normas e certificações que devem ser cumpridas pelas construtoras.  | Média |
+| RF-03 | O site deve permitir o cadastro do perfil laboratórios (fornecedor) de ensaios com as informações: nome da empresa, contato, localização.  | Alta |
+| RF-04 | O site deve permitir visualizar as informações de contatos do mantenedor do site.  | Média |
+| RF-05 | O site deve disponibilizar notícias sobre eventos, treinamentos e informações relevantes para o setor.  | Alta |
+| RF-06 | O site deve permitir o cadastro das construtoras (cliente) com as informações: nome da empresa, contato, localização.  | Alta |
 
 ### Requisitos Não Funcionais
 
@@ -62,11 +57,10 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | **ID** | **Descrição** | **Prioridade** |
 | --- | --- | --- |
 | RNF-01 | Deverá ser providenciado o ambiente de hospedagem do site, no qual permitirá sua publicação na internet e a manutenção do mesmo durante seu ciclo de vida. (Provedor de nuvem, Github Pages, etc.) | Alta |
-| RNF-02 | O Site deve possuir um banco de dados (Mysql, Mariadb ou Postgres), com os dados dos fornecedores e clientes. | Alta |
-| RNF-03 | A interface deverá utilizar linguagens front-end padrões (HMTM, CSS, JavaScript). | Alta |
-| RNF-04 | O site deverá ser integrado aos mecanismos de pesquisa na internet (Google, Bing, Yahoo Search). | Média |
-| RNF-05 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | Média |
-| RNF-06 | O funcionamento interno do site deverá ser desenvolvido utilizando algoritmos otimizados para a filtragem das opções solicitadas. | Baixa |
+| RNF-02 | A interface deverá utilizar linguagens front-end padrões (HMTM, CSS, JavaScript). | Alta |
+| RNF-03 | O site deverá ser integrado aos mecanismos de pesquisa na internet (Google, Bing, Yahoo Search). | Média |
+| RNF-04 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | Média |
+| RNF-05 | O funcionamento interno do site deverá ser desenvolvido utilizando algoritmos otimizados para a filtragem das opções solicitadas. | Baixa |
 
 ### Restrições
 
