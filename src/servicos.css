@@ -9,9 +9,8 @@
   @media (min-width: 768px) {
     .container {
       display: grid;
-      grid-template-columns: 200px 1fr 400px;
+      grid-template-columns: 150px 1fr 400px;
       grid-template-rows: auto 1fr auto;
-  
     }
   }
   
@@ -28,9 +27,14 @@
     width: 100px;
   }
 
+  main ul {
+    padding-inline-start: 0;
+  }
+
   main li {
     display: flexbox;
-    margin-left: 50px;
+    margin-left: 10px;
+    list-style: none;
   }
 
   main a {
