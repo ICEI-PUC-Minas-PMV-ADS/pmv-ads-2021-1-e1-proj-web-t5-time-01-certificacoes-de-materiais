@@ -33,30 +33,6 @@ Disponível em:
 1. Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/src/index.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/src/index.html)
 2. A tela de Login é a primeira funcionalidade exibida pelo site.
 
-### Tela de Notícias
-
-A tela de Notícias é acessada através da tela principal do sistema. Apresenta notícias de destaque nos principais canais e permite ao usuário informar um texto que será utilizado para pesquisa na base e retorna as uma seleção de notícias relacionadas. Um exemplo da tela foi apresentado na Figura 16.
-
-**Requisitos atendidos**
-
-- RNF-05
-
-**Artefatos da funcionalidade**
-
-- noticia.html
-- noticia.css
-- noticia.js
-- logo.png
-
-**Estrutura de Dados**
-
-Disponível em:
-
-[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/commit/8cf43abea2e406825261ea5d204414aca03c04f5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/commit/8cf43abea2e406825261ea5d204414aca03c04f5)
-
-**Instruções de acesso**
-
-Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/src/index.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/src/index.html)
 
 ### Tela de Cadastro
 
