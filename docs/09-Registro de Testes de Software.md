@@ -14,9 +14,3 @@ Os resultados obtidos nos testes de software realizados com o objetivo de testar
 | **Saída esperada:** | Dados submetidos devem ser salvos em um array gerado por código Java Script em Local Storage e apresentados na página Serviços como tabela |
 | **Saída real do sistema:** | A cada novo cadastro os dados do array são incrementados e os dados são apresentados na tabela da página em questão |
 | **Registro de execução:** | Cadastros realizados com sucesso e armazenados na própria página |
-
-| **Registro de Teste** | **CT-03 e CT-04 – Visualizar notícias principais e detalhe da notícia** |
-| --- | --- |
-| **Saída esperada:** | A página deve permitir a visualização de pelo menos 3 notícias com título e imagem. Ao visualizar os detalhes a página deve apresentar o título, imagem de destaque, data, autor e o texto completo da notícia. |
-| **Saída real do sistema:** | Notícias atualizadas são disponibilizadas aos usuários conforme busca. |
-| **Registro de execução:** | Funcionalidade testada com sucesso. |
