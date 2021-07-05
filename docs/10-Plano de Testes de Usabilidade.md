@@ -18,4 +18,3 @@ O planejamento dos testes de usabilidade a serem realizados com usuários são d
 | Teste- 5 | Pagina Cadastros | Apresenta um formulário de fácil entendimento? | Teste de cadastro |
 | Teste- 6 | Pagina Cadastros | Os cadastros são realizados com sucesso? A informação foi armazenada corretamente? | Teste de cadastro |
 | Teste- 7 | Pagina de Notícias | As notícias são relevantes e atualizadas? | Teste de busca/pesquisa |
-| Teste- 8 | Pagina de Notícias | Apresenta rápido tempo de carregamento? | Teste de funcionalidade |
