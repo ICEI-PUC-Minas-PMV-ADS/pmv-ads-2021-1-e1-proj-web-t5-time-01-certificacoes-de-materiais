@@ -38,7 +38,7 @@ Tela para apresentação dos objetivos do projeto.
 
 ### Tela de Notícias
 
-Tela para busca e visualização de notícias relacionadas ao setor da construção civil e os testes realizados pelo setor.
+Tela para visualização de notícias relacionadas a construção civil e os testes realizados pelo setor. 
 
 ![Tela Noticias](img/Tela%20Noticias.PNG)
 <center>Figura 16 - Tela Noticias</center>
