@@ -6,7 +6,7 @@
 
 `2021/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O nosso site busca auxiliar as contrutoras, seus arquitetos e engenheiros a obterem informações precisas sobre normalização, ensaios e laboratórios para atenderem as demandas tecnicas e o código de defesa do consumidor.
 
 ## Integrantes
 
@@ -21,7 +21,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+O site criado está disponível no link: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/src/index.html
 
 # Documentação
 
@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+Os códigos do site estão disponiveis no link: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t5-time-01-certificacoes-de-materiais/tree/main/src
 
 # Apresentação
 
