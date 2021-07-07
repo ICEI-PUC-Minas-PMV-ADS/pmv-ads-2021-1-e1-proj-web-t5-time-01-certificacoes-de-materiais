@@ -9,6 +9,7 @@ function autenticar() {
     if (usuario_db.dados.email === email && usuario_db.dados.senha === password) {
         //  location.href = location.href.replace('login', '');
         alert('Login efetudado com sucesso');
+        window.location = "index.html";
     } else {
         alert('Email ou senha inválidos');
     }
